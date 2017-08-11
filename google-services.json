@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336029393228",
+    "firebase_url": "https://login-da8a8.firebaseio.com",
+    "project_id": "login-da8a8",
+    "storage_bucket": "login-da8a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336029393228:android:2cd67d80977b7c9d",
+        "android_client_info": {
+          "package_name": "br.com.talesandrade.applogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336029393228-lid5sa6om3g3jrh2v03gr3ih06pad7no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXrvYA-zYct8PG03GPIPSqzPmIKiKbL8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
